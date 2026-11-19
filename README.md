@@ -1,2 +1,2 @@
-# mogayanicholas.github.io.com
+# mogayanicholas.github.io
 Personal website (portfolio website)
